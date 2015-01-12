@@ -3,6 +3,7 @@ TypeScript/JavaScript wrapper for the output of xml.js. Makes it machine-process
 
 ## Usage
 ```javascript
+// xmlData and schemaData are Strings
 var Module = {
   xml: xmlData,
   schema: schemaData,
